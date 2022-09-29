@@ -1,0 +1,6 @@
+﻿List -  struttura dati formata da una sequenza di nodi o elementi. 
+ Ogni nodo della lista è caratterizzato da 
+- un campo che contiene un tipo di dato e uno o 
+- due campi che contengono un riferimento al nodo successivo o precedente.
+Array - struttura di dati che contiene una raccolta di elementi di dati di tipo simile
+Tabella - array multidimensionale
